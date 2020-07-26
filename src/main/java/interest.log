@@ -1,0 +1,5 @@
+2020-07-26 00:30:04 DEBUG InterestTest:12 - Enter the Principal Amount?
+2020-07-26 00:30:11 DEBUG InterestTest:15 - Enter Rate of Interest?
+2020-07-26 00:30:15 DEBUG InterestTest:18 - Enter the Number of Years?
+2020-07-26 00:30:19 DEBUG InterestTest:23 - Simple Interest is : 250.0Rs/-
+2020-07-26 00:30:19 DEBUG InterestTest:24 - Compound Interest is : 250.0Rs/-

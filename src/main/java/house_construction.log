@@ -1,0 +1,4 @@
+2020-07-26 00:24:26 DEBUG ConstructionCostTest:10 - Enter the type of the material you need :standard/above standard/high standard ?
+2020-07-26 00:27:17 DEBUG ConstructionCostTest:13 - Enter the total area of the house
+2020-07-26 00:29:09 DEBUG ConstructionCostTest:16 - Enter the type of automation you need :not automated/fully automated 
+2020-07-26 00:29:17 DEBUG ConstructionCostTest:20 - The total cost of house construction is: 1800000.0INR
